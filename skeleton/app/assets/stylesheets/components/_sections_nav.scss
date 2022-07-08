@@ -1,0 +1,20 @@
+.sections {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.sections-container a {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    padding: 3px;
+}
+
+.sections-container a:hover{
+    background-color: lightgrey;
+
+}
+.sections-container .all {
+    text-decoration: underline;
+}
